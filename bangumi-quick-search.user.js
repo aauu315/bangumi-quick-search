@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Bangumi 超合金快捷搜索
 // @namespace    https://bgm.tv/
-// @version      1.2.0
+// @version      1.0
 // @description  在任意网站选中文本后，鼠标旁弹出 Bangumi（bgm.tv）快捷搜索浮窗
-// @author       You
+// @author       Cuiqi
 // @match        *://*/*
 // @grant        none
 // @run-at       document-end
